@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Experywow
-- 👀 I’m interested in web-developing
-- 🌱 I’m currently learning Wordpress, JavaScript technologies
+- 👀 I’m interested java
 - 💞️ I’m looking for a long term partnership
 - 📫 How to reach me - skype: experywow.
 
